@@ -4,6 +4,7 @@
 - [sreekar](https://github.com/talankisai) Hello Git
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
 -[HADAS LUBIN](https://github.com/HADASLUB)
 [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
 [Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
@@ -3592,6 +3593,7 @@ andrewcodess
 - [Sharan Lakshetty](https://github.com/Sharan4405)
 - [Kaushik Balaji](https://github.com/KaushikBalaji05)
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
+- [Vikas B] This is my first contribution
 - [Amos](https://github.com/Amos10436)
 - [Khushi Chitlange](https://github.com/Khushi-Chitlange)
 - [Khushi R](https://github.com/Khushisri05)
